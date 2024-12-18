@@ -1,4 +1,4 @@
-
+TELEGRAM_TOKEN = '8074453340:AAGp4Z43UiwTYfVON6P4lCyMGKj3Z52AZc0'
 
 import logging
 import time
